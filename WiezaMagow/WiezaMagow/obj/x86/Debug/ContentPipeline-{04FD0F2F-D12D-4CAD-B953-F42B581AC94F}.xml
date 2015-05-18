@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Patrick.fbx</Source>
+      <Name>Models\Patrick</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">150</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Patrick.xnb</Output>
+      <Time>2013-09-28T18:02:40.1825161+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Patrick_0.xml</Key>
+        <Value>2013-11-16T15:09:15.4320659+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\patrik_skin_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_build_grey.fbx</Source>
+      <Name>Models\ground_panel_build_grey</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_grey.xnb</Output>
+      <Time>2013-09-26T21:11:23.7557147+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_build_grey_0.xml</Key>
+        <Value>2013-11-16T15:09:20.2834382+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_build_green.fbx</Source>
+      <Name>Models\ground_panel_build_green</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_green.xnb</Output>
+      <Time>2013-09-26T21:11:23.7507093+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_build_green_0.xml</Key>
+        <Value>2013-11-16T15:09:21.2222867+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_path.fbx</Source>
+      <Name>Models\ground_panel_path</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path.xnb</Output>
+      <Time>2013-09-26T21:11:23.7587156+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_path_0.xml</Key>
+        <Value>2013-11-16T15:09:22.1110851+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow.fbx</Source>
+      <Name>Models\Tower_AOE_slow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+        <Data Key="RotationZ">90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow.xnb</Output>
+      <Time>2013-09-26T21:11:23.7296895+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_0.xml</Key>
+        <Value>2013-11-16T15:09:23.4242688+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow_green.fbx</Source>
+      <Name>Models\Tower_AOE_slow_green</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+        <Data Key="RotationZ">90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_green.xnb</Output>
+      <Time>2013-09-26T21:11:23.7366958+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_green_0.xml</Key>
+        <Value>2013-11-16T15:09:24.8025111+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_path_green.fbx</Source>
+      <Name>Models\ground_panel_path_green</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path_green.xnb</Output>
+      <Time>2013-09-26T21:11:23.7627192+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_path_green_0.xml</Key>
+        <Value>2013-11-16T15:09:25.9345319+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow_animated.fbx</Source>
+      <Name>Models\Tower_AOE_slow_animated</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_animated.xnb</Output>
+      <Time>2013-09-28T15:49:00.6144784+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_animated_0.xml</Key>
+        <Value>2013-11-16T15:09:27.0615477+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tower_single_target.fbx</Source>
+      <Name>Models\Tower_single_target</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target.xnb</Output>
+      <Time>2013-09-28T15:49:00.6214865+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_single_target_0.xml</Key>
+        <Value>2013-11-16T15:09:27.3848387+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tower_single_target_animated.fbx</Source>
+      <Name>Models\Tower_single_target_animated</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target_animated.xnb</Output>
+      <Time>2013-09-28T15:49:00.6284928+02:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_single_target_animated_0.xml</Key>
+        <Value>2013-11-16T15:09:28.4808261+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\testing_tower.fbx</Source>
+      <Name>Models\testing_tower</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower.xnb</Output>
+      <Time>2013-10-27T23:55:24.8301899+01:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\testing_tower_0.xml</Key>
+        <Value>2013-11-16T15:09:28.8771852+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\testing_tower_green.fbx</Source>
+      <Name>Models\testing_tower_green</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">800</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower_green.xnb</Output>
+      <Time>2013-10-27T23:55:24.8381971+01:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\testing_tower_green_0.xml</Key>
+        <Value>2013-11-16T15:09:29.2605289+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_gree_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\right-bar.png</Source>
+      <Name>Textures\GUI\right-bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\right-bar.xnb</Output>
+      <Time>2013-09-28T18:01:45.0766478+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_build_green.png</Source>
+      <Name>Textures\ground_panel_build_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green.xnb</Output>
+      <Time>2013-09-26T21:11:23.8437919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_build_grey.png</Source>
+      <Name>Textures\ground_panel_build_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey.xnb</Output>
+      <Time>2013-09-26T21:11:23.8457946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_path.png</Source>
+      <Name>Textures\ground_panel_path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path.xnb</Output>
+      <Time>2013-09-26T21:11:23.923866+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_AOE_slow_texture.png</Source>
+      <Name>Textures\tower_AOE_slow_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture.xnb</Output>
+      <Time>2013-09-26T21:11:23.9959298+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_AOE_slow_texture_green.png</Source>
+      <Name>Textures\tower_AOE_slow_texture_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green.xnb</Output>
+      <Time>2013-09-26T21:11:24.0490091+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_path_green.png</Source>
+      <Name>Textures\ground_panel_path_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green.xnb</Output>
+      <Time>2013-09-26T21:11:23.9618988+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bottom-bar.png</Source>
+      <Name>Textures\bottom-bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\bottom-bar.xnb</Output>
+      <Time>2013-09-26T21:11:23.8417901+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_single_target_texture.png</Source>
+      <Name>Textures\tower_single_target_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture.xnb</Output>
+      <Time>2013-09-26T22:56:05.7033558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage1.png</Source>
+      <Name>Textures\GUI\towerImage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1.xnb</Output>
+      <Time>2014-01-17T08:48:36.5443871+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage2.png</Source>
+      <Name>Textures\GUI\towerImage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2.xnb</Output>
+      <Time>2014-01-17T08:49:19.4524154+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage1-selected.png</Source>
+      <Name>Textures\GUI\towerImage1-selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1-selected.xnb</Output>
+      <Time>2014-01-17T08:50:17.5797579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage2-selected.png</Source>
+      <Name>Textures\GUI\towerImage2-selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2-selected.xnb</Output>
+      <Time>2014-01-17T08:50:55.7218693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Patrick.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Patrick_0.xml</Output>
+      <Time>2013-09-28T18:02:40.1825161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\patrik_skin.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\patrik_skin_0.xnb</Output>
+      <Time>2013-09-28T18:02:40.2345624+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_build_grey.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_build_grey_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7557147+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_build_grey.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey_0.xnb</Output>
+      <Time>2013-09-26T21:11:23.8457946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_build_green.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_build_green_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7507093+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_build_green.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green_0.xnb</Output>
+      <Time>2013-09-26T21:11:23.8437919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_path.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_path_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7587156+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_path.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_0.xnb</Output>
+      <Time>2013-09-26T21:11:23.923866+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7296895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_AOE_slow_texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_0.xnb</Output>
+      <Time>2013-09-26T21:11:23.9959298+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow_green.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_green_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7366958+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_AOE_slow_texture_green.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green_0.xnb</Output>
+      <Time>2013-09-26T21:11:24.0490091+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground_panel_path_green.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\ground_panel_path_green_0.xml</Output>
+      <Time>2013-09-26T21:11:23.7627192+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ground_panel_path_green.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green_0.xnb</Output>
+      <Time>2013-09-26T21:11:23.9618988+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tower_AOE_slow_animated.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_AOE_slow_animated_0.xml</Output>
+      <Time>2013-09-28T15:49:00.6144784+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tower_single_target.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_single_target_0.xml</Output>
+      <Time>2013-09-28T15:49:00.6214865+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_single_target_texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb</Output>
+      <Time>2013-09-26T22:56:05.7033558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tower_single_target_animated.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\Tower_single_target_animated_0.xml</Output>
+      <Time>2013-09-28T15:49:00.6284928+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\testing_tower.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\testing_tower_0.xml</Output>
+      <Time>2013-10-27T23:55:24.8301899+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\testing_tower_green.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\testing_tower_green_0.xml</Output>
+      <Time>2013-10-27T23:55:24.8381971+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tower_single_target_texture_green.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_gree_0.xnb</Output>
+      <Time>2013-10-27T23:55:24.8922496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.fbx</Source>
+      <Name>Models\bullet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\bullet.xnb</Output>
+      <Time>2014-01-17T19:21:37.6776083+01:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\bullet_0.xml</Key>
+        <Value>2014-01-17T19:24:18.6747455+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\bullet_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bullet.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\bullet_0.xml</Output>
+      <Time>2014-01-17T19:21:37.6776083+01:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2014-01-17T00:47:56.9128557+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage3-selected.png</Source>
+      <Name>Textures\GUI\towerImage3-selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage3-selected.xnb</Output>
+      <Time>2014-01-17T08:44:48.7039685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage3.png</Source>
+      <Name>Textures\GUI\towerImage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage3.xnb</Output>
+      <Time>2014-01-17T08:41:10.5135679+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage4-selected.png</Source>
+      <Name>Textures\GUI\towerImage4-selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage4-selected.xnb</Output>
+      <Time>2014-01-17T08:46:57.7904039+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\towerImage4.png</Source>
+      <Name>Textures\GUI\towerImage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage4.xnb</Output>
+      <Time>2014-01-17T08:47:56.4178164+01:00</Time>
+    </Item>
+    <Item>
+      <Source>endFont.spritefont</Source>
+      <Name>endFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\endFont.xnb</Output>
+      <Time>2014-01-17T12:39:25.2500089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bullet.png</Source>
+      <Name>Textures\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\bullet.xnb</Output>
+      <Time>2014-01-17T19:16:40.4525162+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\bullet_0.xnb</Output>
+      <Time>2014-01-17T19:16:40.4525162+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Name>Models\enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\enemy.xnb</Output>
+      <Time>2014-01-17T20:15:59.9327369+01:00</Time>
+      <Dependency>
+        <Key>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\enemy_0.xml</Key>
+        <Value>2014-01-17T20:19:05.9653451+01:00</Value>
+      </Dependency>
+      <Request>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\enemy_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Models\enemy_0.xml</Output>
+      <Time>2014-01-17T20:15:59.9327369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\enemy_0.xnb</Output>
+      <Time>2014-01-17T20:28:52.4490836+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{04FD0F2F-D12D-4CAD-B953-F42B581AC94F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagowContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-14T15:07:37.5570937+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TowerDef.EnemyManager">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQGAAAAAAAAAAAABAAAAAAAAAAAAAAAIgAAAAAEAAA=</HashCode>
+      <FileName>EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.Game1">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABYAEEBAACgEAwABAAAAAiAAAAAACAgAAgAAAAAAAIQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.GameCamera">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAgAAAAAAAQAAAAAABAAAAAAACAAAAA0AIA=</HashCode>
+      <FileName>GameCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.GlobalGameConstants" Collapsed="true">
+    <Position X="10.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAEAAAAAAAAAAAAAABAAAAAAACAAEwAAAgA=</HashCode>
+      <FileName>GlobalGameConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.Gui">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="TowerDef.Gui.GuiImage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gui.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAASBEAAAAAAAAAAAAKAAAAAAQBAAABAAAAgAgAEAwA=</HashCode>
+      <FileName>Gui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.Map">
+    <Position X="12.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACVABAAAQgAAQAwAIQAAgAAABAAAAAEgAEAAAEAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.GameObject">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAQAAAQAAACAAIAAAAAAAABAAAAAAAAAAAMAAA=</HashCode>
+      <FileName>Models\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectBullet">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAIAAAAAAAAAAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectBulletD" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAIAAAAAAAAAAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectBulletD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectBulletR" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAIAAAAAAAAAAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectBulletR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectBulletU" Collapsed="true">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAIAAAAAAAAAAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectBulletU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectEmptyField">
+    <Position X="3.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAAAAAAAAACAAAAAAAEAAg=</HashCode>
+      <FileName>Models\ObjectEmptyField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectEnd" Collapsed="true">
+    <Position X="1.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectEnemy">
+    <Position X="1.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAgAAAAQIABAAAIAAAAACAAAAACAIABgAAAEAAA=</HashCode>
+      <FileName>Models\ObjectEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectNonSpecified">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\ObjectNonSpecified.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectPath">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAAAAAAAAACAAAAAAAEAAg=</HashCode>
+      <FileName>Models\ObjectPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectTower" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAEAAg=</HashCode>
+      <FileName>Models\ObjectTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectTowerSingle">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAABEAAg=</HashCode>
+      <FileName>Models\ObjectTowerSingle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.PathCheckPoint">
+    <Position X="5.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\PathCheckPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.ObjectContainer">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBgEAAIRAAIAAAAIEAAAAAAAAgAAAAAAAgIAEIAA=</HashCode>
+      <FileName>ObjectContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.Position">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerDef.Program">
+    <Position X="12.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TowerDef.Direction" Collapsed="true">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAQAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TowerDef.ObjectType" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAACAAAIAEBAAAEKAAAASgGAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\ObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TowerDef.EnemyType" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>Models\ObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TowerDef.BulletType" Collapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TowerDef.CollisionType" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\ObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

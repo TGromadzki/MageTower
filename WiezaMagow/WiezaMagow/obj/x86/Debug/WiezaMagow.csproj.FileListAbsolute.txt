@@ -1,0 +1,98 @@
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\bottom-bar.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_grey.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\map.txt
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\WiezaMagow.exe
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\WiezaMagow.pdb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.csprojResolveAssemblyReference.cache
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.exe
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.pdb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\right-bar.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\Star9.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tex.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1-selected.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2-selected.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_animated.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target_animated.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\DPSF.dll
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\DPSF.xml
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Patrick.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\patrik_skin_0.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower_green.xnb
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_gree_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Patrick.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_grey.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_build_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\ground_panel_path_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_AOE_slow_animated.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\Tower_single_target_animated.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\testing_tower_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\right-bar.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\bottom-bar.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage1-selected.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage2-selected.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\patrik_skin_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_grey_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_build_green_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_AOE_slow_texture_green_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\ground_panel_path_green_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\tower_single_target_texture_gree_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\WiezaMagow.exe
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\WiezaMagow.pdb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\DPSF.dll
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\DPSF.xml
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.csprojResolveAssemblyReference.cache
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.exe
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\obj\x86\Debug\WiezaMagow.pdb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\bullet.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\myFont.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage3-selected.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage3.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage4-selected.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\GUI\towerImage4.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\endFont.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Textures\bullet.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\bullet_0.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\enemy.xnb
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagow\bin\x86\Debug\Content\Models\enemy_0.xnb

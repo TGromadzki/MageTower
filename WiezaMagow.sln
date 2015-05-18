@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiezaMagow", "WiezaMagow\WiezaMagow\WiezaMagow.csproj", "{B954008D-1D18-4DDD-98C0-D576991C408A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiezaMagowContent", "WiezaMagow\WiezaMagowContent\WiezaMagowContent.contentproj", "{04FD0F2F-D12D-4CAD-B953-F42B581AC94F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B954008D-1D18-4DDD-98C0-D576991C408A}.Debug|x86.ActiveCfg = Debug|x86
+		{B954008D-1D18-4DDD-98C0-D576991C408A}.Debug|x86.Build.0 = Debug|x86
+		{B954008D-1D18-4DDD-98C0-D576991C408A}.Release|x86.ActiveCfg = Release|x86
+		{B954008D-1D18-4DDD-98C0-D576991C408A}.Release|x86.Build.0 = Release|x86
+		{04FD0F2F-D12D-4CAD-B953-F42B581AC94F}.Debug|x86.ActiveCfg = Debug|x86
+		{04FD0F2F-D12D-4CAD-B953-F42B581AC94F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

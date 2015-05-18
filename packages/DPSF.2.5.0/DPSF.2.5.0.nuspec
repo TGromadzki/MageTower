@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DPSF</id>
+    <version>2.5.0</version>
+    <title>DPSF</title>
+    <authors>Daniel Schroeder</authors>
+    <owners>Daniel Schroeder</owners>
+    <licenseUrl>http://www.xnaparticles.com/License.php</licenseUrl>
+    <projectUrl>http://www.xnaparticles.com/</projectUrl>
+    <iconUrl>http://www.xnaparticles.com/Images/DPSFLogoIcon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Dynamic Particle System Framework for XNA.
+	Supports Windows, Xbox 360, Windows Phone, and MonoGame (Windows RT and Mono For Android).
+	NuGet does not always install the proper DLL reference for each project type, so you may need to remove the reference it adds and manually add the correct one.</description>
+    <releaseNotes>- Fixed Android bug where IndexOutOfRangeException would be thrown on some Android devices, depending on their hardware capabilities.
+- Added SetEnabledStateForAllParticleSystems(), SetVisibleStateForAllParticleSystems(), and SetEnabledAndVisibleStatesForAllParticleSystems() functions to the ParticleSystemManager class.
+- Added 2 more helper functions for updating particle transparency, UpdateParticleTransparencyWithQuickFadeIn and UpdateParticleTransparencyWithQuickFadeOut.
+- Added new DisabledWithEarlyRecycling memory management mode to allow recycling the oldest active particle when we want to add a new particle, but have no more memory available for it.
+- Added new DPSFDebugWarningExceptions that are only thrown when debugging and are meant to help users catch when they do not have DPSF setup ideally.
+- Changed the provided Default Particle System classes to be 'abstract', as they are meant to be inherited and not instanced directly.
+- Added more functionality to the MouseManager to easily detect when a mouse button is or was just pressed/released.
+- Created iOS friendly DPSF assemblies, but still not fully tested due to lack of Mac hardware required for testing.
+- Fixed performance bug in ParticleEmitterCollection, as it was generating garbage for the Garbage Collector every time the Emitters and IDs properties were accessed.</releaseNotes>
+    <copyright>Copyright © Daniel Schroeder 2008</copyright>
+    <language />
+    <tags>DPSF Dynamic Particle System Framework Engine Effect XNA</tags>
+  </metadata>
+</package>

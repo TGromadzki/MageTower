@@ -1,0 +1,2 @@
+C:\Users\krzysiek\Documents\gk-wieza-magow\WiezaMagow\WiezaMagow\WiezaMagowContent\obj\x86\Debug\WiezaMagowContent.contentprojResolveAssemblyReference.cache
+D:\Studia\Projekt Inżynierski\WiezaMagow\WiezaMagow\WiezaMagowContent\obj\x86\Debug\WiezaMagowContent.contentprojResolveAssemblyReference.cache
